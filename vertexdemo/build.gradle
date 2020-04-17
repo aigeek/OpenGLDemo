@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 def platformVersion = 18
 android {
-    compileSdkVersion 26
+    compileSdkVersion 28
     buildToolsVersion "26.0.0"
 
     defaultConfig {
         applicationId "com.lyman.vertexdemo"
         minSdkVersion 18
-        targetSdkVersion 26
+        targetSdkVersion 28
         versionCode 1
         versionName "1.0"
 
@@ -17,7 +17,7 @@ android {
                 cppFlags ""
                 abiFilters 'armeabi-v7a'
                 arguments "-DANDROID_PLATFORM_LEVEL=${platformVersion}",
-                        '-DANDROID_TOOLCHAIN=clang', '-DANDROID_STL=gnustl_static'
+                    '-DANDROID_TOOLCHAIN=clang', '-DANDROID_STL=gnustl_static'
             }
         }
     }
@@ -33,6 +33,13 @@ android {
             path "CMakeLists.txt"
         }
     }
+    packagingOptions {//加上这写代码
+        pickFirst 'lib/armeabi-v7a/libtexture-lib.so'
+    }
+    packagingOptions {//加上这写代码
+        pickFirst 'lib/armeabi-v7a/libvertexarray-lib.so'
+    }
+
 }
 
 dependencies {

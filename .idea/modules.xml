@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenGLDemo.iml" filepath="$PROJECT_DIR$/OpenGLDemo.iml" group="OpenGLDemo" />
+      <module fileurl="file://$PROJECT_DIR$/app/OpenGLDemo-app.iml" filepath="$PROJECT_DIR$/app/OpenGLDemo-app.iml" group="OpenGLDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentshaderdemo/OpenGLDemo-fragmentshaderdemo.iml" filepath="$PROJECT_DIR$/fragmentshaderdemo/OpenGLDemo-fragmentshaderdemo.iml" group="OpenGLDemo/fragmentshaderdemo" />
+      <module fileurl="file://$PROJECT_DIR$/hellotriangle/OpenGLDemo-hellotriangle.iml" filepath="$PROJECT_DIR$/hellotriangle/OpenGLDemo-hellotriangle.iml" group="OpenGLDemo/hellotriangle" />
+      <module fileurl="file://$PROJECT_DIR$/primitive/OpenGLDemo-primitive.iml" filepath="$PROJECT_DIR$/primitive/OpenGLDemo-primitive.iml" group="OpenGLDemo/primitive" />
+      <module fileurl="file://$PROJECT_DIR$/shaderdemo/OpenGLDemo-shaderdemo.iml" filepath="$PROJECT_DIR$/shaderdemo/OpenGLDemo-shaderdemo.iml" group="OpenGLDemo/shaderdemo" />
+      <module fileurl="file://$PROJECT_DIR$/texturedemo/OpenGLDemo-texturedemo.iml" filepath="$PROJECT_DIR$/texturedemo/OpenGLDemo-texturedemo.iml" group="OpenGLDemo/texturedemo" />
+      <module fileurl="file://$PROJECT_DIR$/vertexdemo/OpenGLDemo-vertexdemo.iml" filepath="$PROJECT_DIR$/vertexdemo/OpenGLDemo-vertexdemo.iml" group="OpenGLDemo/vertexdemo" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="OpenGLDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentshaderdemo/fragmentshaderdemo.iml" filepath="$PROJECT_DIR$/fragmentshaderdemo/fragmentshaderdemo.iml" group="OpenGLDemo/fragmentshaderdemo" />
+      <module fileurl="file://$PROJECT_DIR$/hellotriangle/hellotriangle.iml" filepath="$PROJECT_DIR$/hellotriangle/hellotriangle.iml" group="OpenGLDemo/hellotriangle" />
+      <module fileurl="file://$PROJECT_DIR$/lymanYe-OpenGLDemo.iml" filepath="$PROJECT_DIR$/lymanYe-OpenGLDemo.iml" group="OpenGLDemo" />
+      <module fileurl="file://$PROJECT_DIR$/primitive/primitive.iml" filepath="$PROJECT_DIR$/primitive/primitive.iml" group="OpenGLDemo/primitive" />
+      <module fileurl="file://$PROJECT_DIR$/shaderdemo/shaderdemo.iml" filepath="$PROJECT_DIR$/shaderdemo/shaderdemo.iml" group="OpenGLDemo/shaderdemo" />
+      <module fileurl="file://$PROJECT_DIR$/texturedemo/texturedemo.iml" filepath="$PROJECT_DIR$/texturedemo/texturedemo.iml" group="OpenGLDemo/texturedemo" />
+      <module fileurl="file://$PROJECT_DIR$/vertexdemo/vertexdemo.iml" filepath="$PROJECT_DIR$/vertexdemo/vertexdemo.iml" group="OpenGLDemo/vertexdemo" />
+    </modules>
+  </component>
+</project>
